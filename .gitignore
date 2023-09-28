@@ -1,0 +1,11 @@
+# ignore all logs
+*.log
+
+#ignore git folders
+ipynb_checkpoints/
+
+#ignore catboost folders
+catboost_info/
+
+test.ipynb
+Untitled.ipynb
